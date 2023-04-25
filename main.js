@@ -1,0 +1,3 @@
+function onClickAlertTest() {
+    alert("Clicked!!!!!!!!!");
+}

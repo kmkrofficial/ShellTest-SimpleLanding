@@ -1,0 +1,16 @@
+name: Test Template
+description: Test App Environment
+tags:
+  - javascript
+  - html
+  - css
+icons: ['angular']
+stack:
+  packages:
+    - name: HTML
+      version: '5'
+    - name: CSS
+      version: '3'
+    - name: JavaScript
+      version: 'ES5'
+discoverable: true
